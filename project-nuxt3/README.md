@@ -4,7 +4,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 
 ## Setup
 
-Make sure to install the dependencies:
+Make sure to install the dependencies:  
 종속 항목을 설치해야 합니다:
 
 ```bash
@@ -20,7 +20,7 @@ yarn install
 
 ## Development Server
 
-Start the development server on `http://localhost:3000`:
+Start the development server on `http://localhost:3000`:  
 `http://localhost:3000`에서 개발 서버를 시작합니다:
 
 ```bash
@@ -36,7 +36,7 @@ yarn dev
 
 ## Production
 
-Build the application for production:
+Build the application for production:  
 프로덕션용 애플리케이션 빌드:
 
 ```bash
@@ -50,7 +50,7 @@ pnpm run build
 yarn build
 ```
 
-Locally preview production build:
+Locally preview production build:  
 프로덕션 빌드를 로컬에서 미리 보기:
 
 ```bash
@@ -64,12 +64,12 @@ pnpm run preview
 yarn preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.  
 자세한 내용은 [배포 문서](https://nuxt.com/docs/getting-started/deployment)를 확인하세요.
 
 <!-- =========================== -->
 
 ## set
 
-프로젝트 구성
+프로젝트 구성  
 vite + nuxt3 + ts
