@@ -73,3 +73,9 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 
 프로젝트 구성  
 vite + nuxt3 + ts
+
+- eslint
+- prettier
+- pinia
+- sass
+- sass-loader
